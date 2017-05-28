@@ -1,0 +1,19 @@
+<% include header %>
+
+<p>Hallo <%= naam %>!</p>
+
+<p>Je bent geboren in <%= geboortejaar %>, wat betekent dat je <%= (new Date()).getFullYear() - geboortejaar %> oud bent.</p>
+
+<% if (loopbaan) { -%>
+
+<p><%=: loopbaan | capitalize %> is een toffe job!</p>
+
+<% } else { -%>
+
+<p>Nog niet aan het werk? Geen enkel probleem ;-)</p>
+
+<% } -%>
+
+<p>En dit is je bio: <%- bio %> Tot later!</p>
+
+<% include footer %>

@@ -1,0 +1,21 @@
+<% include header %>
+
+<h1><a href="/"><< back to</a> Sandra<strong>.</strong>!<strong>m</strong></h1>
+<h3>Bloggin' It - a beauty blog by <a href="/about">Sandra Matkovic</a></h3>
+
+<h2>Meanwhile, on <span>Instagram</span> :</h2>
+
+<section class="instagram">
+  <% afbeeldingen.forEach(function(afbeelding){ %>
+    <figure>
+      <a href="https://www.instagram.com/p/<%- afbeelding.id %>/?taken-by=glossier"><img src="<%- afbeelding.media %>" alt="alt text" ></a>
+      <figcaption>
+          <% if (afbeelding.text) { %>
+            <%- afbeelding.text %>
+            <%} else {%>Click to see this picture<%} %>
+      </figcaption>
+    </figure>
+  <% }); %>
+</section>
+
+<% include footer %>

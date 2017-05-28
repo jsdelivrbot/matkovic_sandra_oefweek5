@@ -1,0 +1,18 @@
+/* }, op deze manier voeg je een nieuwe blogpost toe! */
+
+{
+  "blogposts": [{
+    "title" : "For Every Face, There's A Primer",
+    "name": "Sandra Matkovic",
+    "body": "<p>We are living in the Golden Age of primer. You still have to wait 35 hours at the DMV to get a driver's license because nobody has invented an online check-in system, and meanwhile, cosmetic primers have gone from spackling your skin to protecting against UV rays, imparting moisture unto your face, fixing your furniture, and rearing your children. </p>",
+
+  },{
+    "title" : "No Sun, Still Tan",
+    "name": "Sandra Matkovic",
+    "body": "<p>If there's anything to glean from Sun Week, it's that sun burn is bad and sunscreen is good, and that's it, you've learned today's lesson, time to log off the internet. But the inconvenient truth is that sometimes, a little sun looks good on you. (Unless you are one of these people.) Bronzed, misted skin, with a hint of a flush is the stuff that French Elle magazine editorials are made of. It's the perennial summer look. If there's anything to glean from six years of reading ITG, it's that makeup can do most anything. Blush and bronzer were literally invented to mimic the effects of a bit too much sun, without actually having to go out and procure those UV rays for yourself. </p>",
+
+
+    "title" : "Bronzers: The Blush Of Summer",
+    "name": "Sandra Matkovic",
+    "body": "About a month ago, I did something truly revolutionary: I switched out my translucent powder for bronzer. (OK, that's a bit of a lie—I wasn't really using a translucent powder regularly, but I was actively looking for one to add to my routine, so that counts for something.) I did this mainly because La Mer had to go and make themselves a bronzer and it is the most gorgeous thing I've ever laid eyes on, as you could imagine. That company does not make products you don't want. Anyway, the learnings from this shift were as quick as they were face-changing. After a few days of dusting cheekbones, forehead, nose, and chin with a healthy swirl of my Smith 112 Bronzer Brush (my New Years Resolution to use makeup brushes finally coming in handy), not bronzing was simply no longer an option. Trying to leave the bathroom without some color just seemed silly. Simply put, I looked dead without it.",
+}

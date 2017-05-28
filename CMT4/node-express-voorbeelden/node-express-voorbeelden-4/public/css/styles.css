@@ -1,0 +1,42 @@
+/* This design by Kristof Michiels - Mobile first meaning other screens are cathered for in separate media queries */
+html { -webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */ }
+
+body { width: 90%; margin: 3em auto; font-size: 90%; font-family: "john-doe"; color: #1B1B1B; background-color: #FBFBFB; }
+
+h1 { float: right; margin-bottom: 2em; }
+
+h2 { margin-bottom: 2em; clear: right; }
+
+h2 span { color: #C3212C; }
+
+h3 { float: right; clear: right; margin-bottom: 4em; }
+
+h3.tagline { line-height: 2em; text-align: right; }
+
+strong { font-weight: 700; color: #C3212C; }
+
+p { padding-bottom: 2em; line-height: 2em; text-align: justify; clear: right; }
+
+article p:first-letter, section p:first-letter { padding-left: 5em; }
+
+a { color: #C3212C; text-decoration: none; }
+
+a:hover { border-bottom: 1px solid #C3212C; }
+
+img { max-width: 100%; margin: 0 auto 1.3em auto; display: block; }
+
+q { font-style: italic; }
+
+p.tags { padding-bottom: 0; }
+
+@media only screen and (min-width: 600px) { body { width: 80%; } }
+@media only screen and (min-width: 768px) { body { width: 70%; font-size: 95%; margin: 4em auto; } }
+@media only screen and (min-width: 1024px) { body { width: 65%; font-size: 98%; } }
+@media only screen and (min-width: 1200px) { body { width: 63%; margin: 5em auto; font-size: 98%; } }
+@media only screen and (min-width: 1300px) { body { width: 58%; margin: 5em auto; font-size: 98%; } }
+@media only screen and (min-width: 1400px) { body { width: 53%; margin: 5em auto; font-size: 98%; } }
+@media only screen and (min-width: 1500px) { body { width: 48%; } }
+@media only screen and (min-width: 1600px) { body { width: 43%; } }
+@media only screen and (min-width: 1700px) { body { width: 38%; } }
+@media only screen and (min-width: 2000px) { body { width: 35%; } }
+.divider { display: block; margin-bottom: 25px; text-align: center; }
