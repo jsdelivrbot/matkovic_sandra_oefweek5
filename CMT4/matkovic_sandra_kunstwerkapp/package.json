@@ -1,0 +1,27 @@
+{
+  "name": "Talk That Art · museumapp",
+  "version": "1.0.0",
+  "description": "Mobile application",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "food",
+    "culture",
+    "movies",
+    "beauty"
+
+  ],
+  "author": "Sandra Matkovic",
+  "license": "ISC"
+  },
+  "homepage": "",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}

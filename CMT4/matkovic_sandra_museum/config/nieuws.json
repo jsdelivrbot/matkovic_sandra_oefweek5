@@ -1,0 +1,139 @@
+{
+    "nieuws":
+    [
+      {
+
+          "titel": "Les Demoiselles d'Avignon",
+          "id": 224,
+          "painter": "Pablo Picasso",
+          "year": 1907,
+          "datum":"28/05/2017",
+          "categorieen": ["Cubism"],
+          "samenvatting": "...",
+          "body": "<p>Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon) is a large oil painting created in 1907 by the Spanish artist Pablo Picasso (1881–1973). The work portrays five nude female prostitutes from a brothel on Carrer d'Avinyó (Avinyó Street) in Barcelona. Each figure is depicted in a disconcerting confrontational manner and none are conventionally feminine. The women appear as slightly menacing and rendered with angular and disjointed body shapes. Three figures on the left exhibit facial features in the Iberian style of Picasso's native Spain, while the two on the right are shown with African mask-like features. The racial primitivism evoked in these masks, according to Picasso, moved him to liberate an utterly original artistic style of compelling, even savage force.</p>",
+          "afbeeldings": "10-les-demoiselles-davignon-Young.jpg"
+      },
+
+      {
+
+          "titel": "Still Life",
+          "id": 223,
+          "painter": "Willem Grasdorp",
+          "year": 1944,
+          "datum":"28/05/2017",
+          "categorieen": ["Realism"],
+          "samenvatting": "...",
+          "body": "<p>Dutch painter. He was the son of an architectural and genre painter Jan Grasdorp (1651-1693). Willem, according to Arnold Houbraken, was apprenticed in 1697 to the Hamburg still-life painter Ernst Stuven (c.1660-1712), who is purported to have treated him badly and provoked a lawsuit. Grasdorp subsequently became a specialist in flower and fruit still-lifes. Little is known of his life. His only recorded dated work was of 1710 and he is known to have exhibited two fruit still-lifes in the Amsterdam Town Hall the following year. In the Herzog Anton Ulrich Museum, Braunschweig, there is another still-life of grapes, peaches, and flowers by the artist. Grasdorp's compositions, especially his flower pieces, have been likened to those of the women painters, Rachel Ruysch and Maria van Oosterwijk, while his hard and exacting execution recalls the polish of Abraham Mignon and Elias van den Broeck. The last mentioned provides the closest stylistic parallels. While Grasdorp was active in the eighteenth century, his art is entirely grounded in the pictorial conventions of the previous century.  </p>",
+          "afbeeldings": "9-still-life.jpg"
+      },
+      {
+
+          "titel": "The Broken Column",
+          "id": 222,
+          "painter": "Frida Kahlo",
+          "year": 1710,
+          "datum":"28/05/2017",
+          "categorieen": ["Surrealism"],
+          "samenvatting": "...",
+          "body": "<p>The Broken Column (La Columna Rota in Spanish) is an oil on masonite painting by Mexican artist Frida Kahlo, painted in 1944 shortly after she had had spinal surgery to correct on-going problems which had resulted from a serious traffic accident when the painter was eighteen years old. The original is housed at the Museo Dolores Olmedo in Xochimilco, Mexico City, Mexico.  As with many of her self-portraits, pain and suffering is the focus of the work,  though unlike many of her other works, which include parrots, dogs, monkeys and other people, in this painting, Kahlo is alone. Her solitary presence on a cracked and barren landscape symbolize both her isolation and the external forces which have impacted her life. As an earthquake might fissure the landscape, Kahlo's accident broke her body. </p>",
+          "afbeeldings": "8-broken-colum.jpg"
+      },
+
+       {
+
+           "titel": "Meditative Rose",
+           "id": 221,
+           "painter": "Salvador Dali",
+           "year": 1900,
+           "datum":"28/05/2017",
+           "categorieen": ["Surrealism"],
+           "samenvatting": "...",
+           "body": "<p>The Spanish painter Salvador Dali remains one of the most controversial and paradoxical artists of the twentieth century. Dali was a great artist who was a great self-publicist and showman. The combination was an irresistible formula for success. Born in 1904, most of the works he did revolved around painting, sculpture work, and he worked as a graphic artist and designer as well. During the course of his career, he experienced many different art forms, and experimented   with a few styles, allowing him to further his points of expression, and the design pieces which he created during the illustrious and extensive career that he had. </p>",
+           "afbeeldings": "7-meditative-rose.jpg"
+       },
+
+        {
+
+            "titel": "Le Jardin de l'Artiste à Giverny ",
+            "id": 220,
+            "painter": "Claude Monet",
+            "year": 1900,
+            "datum":"28/05/2017",
+            "categorieen": ["Impressionism"],
+            "samenvatting": "...",
+            "body": "<p>French painter, founder and leader of the Impressionist movement in France; indeed the movement's name, Impressionism, is derived from his Impression, Sunrise (1873; Musée Marmottan Monet, Paris). He adhered to its principles throughout his long career and is considered the most consistently representative painter of the school as well as one of the foremost painters of landscape in the history of art. As a youth in Le Havre, Monet was encouraged by the marine painter Boudin to paint in the open air, a practice he never forsook. After two years (1860-62) with the army in Algeria, he went to Paris, over parental objections, to study painting. In Paris, Monet formed lasting friendships with the artists who would become the major impressionists, including Pissarro, Cézanne, Renoir, Sisley, and Bazille. He and several of his friends painted for a time out-of-doors in the Barbizon district. Renoir and Monet began painting outdoors together in the late 1860s, laying the foundations of Impressionism.Monet soon began to concern himself with his lifelong objective: portraying the variations of light and atmosphere brought on by changes of hour and season. Rather than copy in the Louvre, the traditional practice of young artists, Monet learned from his friends, from the landscape itself, and from the works of his older contemporaries Manet, Corot, and Courbet. Monet's representation of light was based on his knowledge of the laws of optics as well as his own observations of his subjects. He often showed natural colour by breaking it down into its different components as a prism does. Eliminating black and gray from his palette, Monet rejected entirely the academic approach to landscape.</p>",
+            "afbeeldings": "6-le-jardin-de-l'artiste-à- Giverny.jpg"
+        },
+
+        {
+
+          "titel": "The Last Judgment",
+          "id": 219,
+          "painter": "Vincent Van Gogh",
+          "year": 1885,
+          "datum":"28/05/2017",
+          "categorieen": ["Baroque"],
+          "samenvatting": "...",
+          "body": "<p>Rubens was one of the most methodically assimilative and most prodigiously productive of Western artists. His abundant energy fired him to study and emulate the masters both of antiquity and of the 16th century in Rome, Venice, and Parma. </p>",
+          "afbeeldings": "5-judgement.jpg"
+      },
+
+
+      {
+
+        "titel": "Portrait of Fanny Gail",
+        "id": 218,
+        "painter": "Vincent Van Gogh",
+        "year": 1885,
+        "datum":"28/05/2017",
+        "categorieen": ["Romanticism"],
+        "samenvatting": "...",
+        "body": "<p>German painter. After training (1813-17) under Peter von Langer (1756-1824) at the Akademie der bildenden Künste in Munich, he painted religious subjects under the influence of Peter Cornelius. In 1821 he joined the Lukasbrüder, and the circle around Crown Prince Ludwig I of Bavaria, in Rome. Apollo among the Muses (1824; Munich, Neue Pinakothek), painted for Maximilian I, shows Hess to be among the most gifted of the German artists working in Rome. The influence of Raphael, glowing but carefully harmonized colours, gliding figures and drapery animate this early masterpiece. Among other important works from this time are exquisitely detailed and colouristically sophisticated, intimate character portraits with early Renaissance settings.</p>",
+        "afbeeldings": "4-fanny-gail.jpg"
+    },
+      {
+
+        "titel": "Skull with Burning Cigarette",
+        "id": 217,
+        "painter": "Vincent Van Gogh",
+        "year": 1885,
+        "datum":"28/05/2017",
+        "categorieen": ["Postimpressionism"],
+        "samenvatting": "Our emotions are not always in our control",
+        "body": "<p>Conscious of his failure in the field of rural genre, van Gogh decided to return to the city. He planned to go to Paris in the hope that the new movements in Parisian painting, of which he had heard from his brother, might provide him with new directions for his work. To prepare himself for this encounter with Paris and its urban population and motifs van Gogh went to the Belgian port of Antwerp. He spent three months in Antwerp where he visited the museums and carefully studied the portraiture and colourist palette of Frans Hals and Rubens. He created a series of experimental portraits in which he tried to apply what he learned from them. From the very start, van Gogh saw his time in Antwerp as an intermezzo before he moved on to Paris, capital of the nineteenth century.</p>",
+        "afbeeldings": "1-skull-with-burning-cigarette-1885-antwerp-oil-oncanvas.jpg"
+    },
+
+      {
+
+          "titel": "Last Judgement (detail of the blessed)",
+          "id": 216,
+          "painter": "Nardo di Cione",
+          "year":"1354-57",
+          "categorieen": ["Medieval"],
+          "samenvatting": "Our emotions are not always in our control",
+          "body": "<p>The construction of the Dominican church of Santa Maria Novella began in 1246, and was essentially complete by the start of the fourteenth century. The Strozzi Chapel at the end of the left transept, initiated by the sons of Rosso di Gerio Strozzi (died in 1316), was added between 1340 and 1348. The Strozzi were one of the Florentine families that attained considerable wealth and influence through their trading and banking businesses beginning in the early fourteenth century.The Strozzi Chapel contains one of the most important altarpieces of the Trecento, painted by Orcagna (Andrea di Cione) between 1354 and 1357. The frescoes in the chapel were probably painted at the same time as the retable by Nardo di Cione, the brother of Orcagna. In nearly a complete departure from earlier family chapels, the fresco program is devoted almost exclusively to a depiction of the Last Judgment, which takes up all three walls. The pictorial program of the frescoes is articulated like a triptych, with the Last Judgment on the west wall as the core of the ensemble and Paradise on the south wall as the pendant to Hell on the north wall. </p>",
+          "afbeeldings": "2-last-judgement.jpg"
+    },
+
+      {
+          "titel": "DEZE NIET",
+          "id": 215,
+          "datum": "25/05/2017",
+          "categorieen": ["culture","music"],
+          "samenvatting": "And beyond!",
+          "body": "<p>May is Asian Pacific American Heritage Month, a time to celebrate the cultures, traditions, and history of Asian-Americans and Pacific Islanders in the United States. In honor of this, we’re shining a spotlight on some of our favorite Asian-American authors.   There are writers of Asian descent in your lexicon, I’m sure. If you told us they were limited to the works of Amy Tan, Haruki Murakami, and/or Jhumpa Lahiri, though, we wouldn’t be surprised, but there’s also a whole world of lesser-known but no less exciting writers emerging in the literary space adding dimension to the Asian-American conversation.  Ahead, we bring you some of our favorites. Don’t limit your reading of them to this month alone, though. The brilliant books ahead are worth paying attention to just as much today as they are two months from now, next year, or even a decade from now.</p>",
+          "afbeeldings": "books.png"
+      },
+
+        {
+          "titel": "What You Need To Know About Skin-Care Acids",
+          "id": 214,
+          "datum": "23/05/2017",
+          "categorieen": ["beauty"],
+          "samenvatting": "They’re not as scary as they sound",
+          "body": "<p>Hear the words “acid” and “skin” combined, and it’s hard not to be a little scared. You probably can’t help but picture a bubbly liquid eating through your skin, leaving nothing in its wake. But get rid of any negative connotations, and instead realize that skin-care acids can actually leave your skin free of clogging and breakouts. Not so scary anymore, right? Skin-care acids come in many forms, meaning formulas. For the most part, though, they work in three ways: exfoliating, slowing down the aging process, and hydrating. We’re going to go through six acids we think you should know about ahead, but first, let’s back up to why people are so threatened by the idea of putting an acid on their face. We blame that episode of Sex and the City where Samantha gets a chemical peel, and it looks like her face has been dipped in literal fire; Laura Dyer, PA-C, blames it, too. Well, kind of.  “I think, historically, people are scared of what the old-school acids were, the big big acids, the TCAs, the phenol peels that were done way back in the day,” she says. “All of that is definitely a misconception in and of itself because, when used properly, they can leave the skin looking super fresh, glowing, improve fine lines, texture, acne, pigmentation, all those different things with zero downtime and no noticeable side effects.” Anyone can use skin-care acids, but everyone should proceed with caution when using them for the first time. Always start with the lowest concentration, to see how your skin responds, then feel things out from there. Don’t use it every day, cosmetic chemist Ni’Kita Wilson warns. Start with every three days to get your skin used to a lower pH. She notes that those with darker skin should be particularly careful because you can create unnecessary hyper-pigmentation or dark marks. “But once you get used to it, they are awesome ingredients, they work like no other,” she says. There are hundreds, if not thousands, types of acids out there, but we’re going to focus on the ones we think are the most important in terms of benefitting the appearance of your skin. We’re discussing them separately, but, Dr. Harold Lancer, celebrity dermatologist, says it’s not uncommon to see multiple acids on the ingredient list for a product. “If you’re the kind of person who cooks, and your favorite ingredient is pepper, well you don’t just put pepper into the water and expect to make it a soup,” he explains. Basically, don’t be afraid when more than one acid is in a product; they probably work well together and will only aid you on your path to glowy skin. .</p>",
+          "afbeeldings": "skincare.png"
+        }
+    ]
+}

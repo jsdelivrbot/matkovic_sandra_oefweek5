@@ -1,0 +1,45 @@
+<style>
+            img {
+                margin: 0 auto;
+            }
+
+            body {
+                font-family: {font:Font}, sans-serif;
+                font-size: 16px;
+                color: {color:Body Text};
+                position: relative;
+                line-height: 24px;
+                line-height: 1.5em;
+                background: {color:white};
+                -webkit-font-smoothing: antialiased;
+            }
+
+            .bottom__copyright a:after {
+                background: {color:Body Text};
+            }
+
+            body.has-google-fonts {
+                font-family: {text:Google Fonts}, sans-serif;
+            }
+
+             .icon-heart,
+             .like_text,
+            a {
+                color: {color:Body Text};
+                opacity: 5;
+            }
+
+            .like_button:hover + .like_text {
+                opacity: 1;
+            }
+
+              h1.title a {
+                line-height: 36px;
+                line-height: 2em;
+                color: {color:Body Text};
+            }
+
+            .hamburger { color:{color:Body Text}; }
+
+        {CustomCSS}
+        </style>
